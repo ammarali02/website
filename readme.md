@@ -10,3 +10,4 @@
     - cli `git init`
     -  `git add .`
     - `git commit -m "initial files"`
+    - test
